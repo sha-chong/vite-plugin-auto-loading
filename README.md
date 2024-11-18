@@ -64,7 +64,3 @@ await api.submit()
 | debug | boolean | false | 是否开启调试日志 |
 
 ## License
-
-MIT
-npm login
-npm publish
