@@ -21,10 +21,10 @@ ts
 ```ts
 // vite.config.ts
 import { defineConfig } from 'vite'
-import AutoLoading from 'vite-plugin-auto-loading'
+import  { autoLoadingPlugin } from 'vite-plugin-auto-loading'
 export default defineConfig({
 plugins: [
-    AutoLoading({
+    autoLoadingPlugin({
       debug: true // 开启调试日志
     })
   ]
