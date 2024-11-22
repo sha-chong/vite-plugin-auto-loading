@@ -1,10 +1,14 @@
 {
   "name": "vite-plugin-auto-loading",
-  "version": "1.0.3",
-  "description": "自动处理 Vue 组件中的 loading 状态",
+  "version": "1.0.7",
+  "description": "一个用于自动处理 Vue 组件中的 loading 状态的 Vite 插件|A Vite plugin to automatically handle loading states in Vue components.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sha-chong/vite-plugin-auto-loading"
+  },
   "files": [
     "dist"
   ],
