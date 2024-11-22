@@ -1,5 +1,7 @@
 # vite-plugin-auto-loading
 
+[English](./README.en.md) | 简体中文
+
 一个用于自动处理 Vue 组件中 loading 状态的 Vite 插件。
 
 ## 安装
@@ -62,5 +64,3 @@ await api.submit()
 | 选项 | 类型 | 默认值 | 描述 |
 |------|------|--------|------|
 | debug | boolean | false | 是否开启调试日志 |
-
-## License
